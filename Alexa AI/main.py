@@ -19,7 +19,7 @@ def speak(text):
 
 
 def aiProcess(command):
-    client = OpenAI(api_key="sk-proj-LuRD262Iv82Dv4PTQVl1T3BlbkFJoi3XnpqFUI7Jn53mAA8W",
+    client = OpenAI(api_key="Your OpenAI api key",
 )
 
 
